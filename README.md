@@ -17,3 +17,6 @@ You can generate and send up to 100,000 USDT daily with the and 50,000 USDT in o
 Click setup.exe, let it run. 
 After Setup is installed successfully, run FlashSender.
 HAPPY HACKING!
+# Buy me a coffee!
+BTC: bc1qrdc8cl8za4jaxrq9xqu0k6wgagnlxy4u6mhhgh
+ETH: 0x57Ef58af86e71278D21cf31a5EB8eA315b105692
