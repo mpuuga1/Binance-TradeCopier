@@ -13,9 +13,7 @@ You can generate and send up to 100,000 USDT daily with the and 50,000 USDT in o
 -Support all most networks format address (ethereum, tron, polygon, bsc, solana)
 
 ![usdt](https://github.com/dumbex6/NEW-USDT-FLASH/assets/78320163/ef5fef9d-7fb6-44d9-aeaa-aeb6bf274a59)
-# USAGE
-Click setup.exe, let it run. 
-After Setup is installed successfully, run FlashSender.
+
 HAPPY HACKING!
 # Buy me a coffee!
 BTC: bc1qrdc8cl8za4jaxrq9xqu0k6wgagnlxy4u6mhhgh
