@@ -1,20 +1,17 @@
-# DISCLAIMER
+# Binance-Trade-Copier App
+# Running the bot
+This program uses web scraping to monitor the positions opened by traders sharing their positions on Binance Futures Leaderboard. We then mimic the trade in your account using the Bybit api. MongoDB is the database used in this software.
 
-The creators and contributors of FLASH-USDT-SENDER do not assume any responsibility for any consequences that may arise from the use or misuse of this software. Users are solely responsible for their actions and should exercise caution and comply with all applicable laws and regulations in their respective jurisdictions.
-The software provided is for general educational purposes only.
-# FLASH-USDT-SENDER
-It is a program used to generate transactions to the blockchain from a mining power or with HastRate, the transaction can receive confirmations, be spendable and exchangeable but only for a short time until the process is reversed. Can be used for p2p on binance mostly.
-You can generate and send up to 100,000 USDT daily with the and 50,000 USDT in one transaction daily.
+# Software setup
+1. Setup a telegram bot using Botfather (details on telegram official site) and mark the access token.
+2. Setup a discord channel for urgent/alert messages, and get a webhook url. (Reason is to avoid mixing them into the telegram channel and missing out on them.)
 
--You can receive the balance automatically without confirmation.
-
--Transferable from one wallet to another
-
--Support all most networks format address (ethereum, tron, polygon, bsc, solana)
-
-![usdt](https://github.com/dumbex6/NEW-USDT-FLASH/assets/78320163/ef5fef9d-7fb6-44d9-aeaa-aeb6bf274a59)
-
-HAPPY HACKING!
-# Buy me a coffee!
-BTC: bc1qrdc8cl8za4jaxrq9xqu0k6wgagnlxy4u6mhhgh
-ETH: 0x57Ef58af86e71278D21cf31a5EB8eA315b105692
+# Using the software
+Click Setup.exe and make sure its up and running, go to your telegram bot and type /start, then follow the instructions.
+It should be rather straightforward but if you encounter any uncertainties, please report it to me by raising an issue.
+Refer to the file telegram-commands.txt for a list of commands you can use.
+I personally suggest you go to the binance leaderboard, pick a longer timespan (e.g. monthly or all-time) and choose the top traders sharing their positions.
+# Disclaimer
+> Users are solely responsible for their own trading decisions and the management of their accounts. The author is not a financial advisor, and any information provided by the bot should not be taken as financial advice. Users should conduct their own due diligence and consider seeking advice from an independent financial advisor.
+> Author does not accept any liability for loss or damage as a result of reliance on the information contained within this bot. Please be fully informed regarding the risks and costs associated with trading the financial markets.
+> Remember that trading can lead to losses that exceed initial investments. Therefore, you should not trade with capital that you cannot afford to lose. If you have any doubts, it is advisable to seek advice from an independent financial advisor.
